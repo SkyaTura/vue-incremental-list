@@ -1,0 +1,8 @@
+.vscode
+.eslintrc.cjs
+vite.config.ts
+tsconfig.config.json
+/src/*
+!/src/components
+*.html
+/docs/.vitepress
